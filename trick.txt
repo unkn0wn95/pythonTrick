@@ -1,0 +1,4 @@
+Python Trick
+
+Uninstall all packages on requirement.txt (https://stackoverflow.com/questions/13176968/how-can-i-use-a-pip-requirements-file-to-uninstall-as-well-as-install-packages):
+	Run pip uninstall -r requirements.txt -y
