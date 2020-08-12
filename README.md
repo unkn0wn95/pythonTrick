@@ -1,0 +1,2 @@
+# pythonTrick
+All python trick
